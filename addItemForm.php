@@ -57,8 +57,6 @@ require('addItem.php');
 
             return( true );
         }
-
-        }
     </script>
 </head>
 <body>
